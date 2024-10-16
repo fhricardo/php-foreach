@@ -16,7 +16,15 @@
             </h1>
         </div>
         <menu class="col-9">
-            <p>Professor Flávio Ricardo</p>
+            <a href="index.php">Início</a>
+            <a href="index.php?cat=smartphones">smartphones</a>
+            <a href="index.php?cat=computadores">computadores</a>
+            <a href="index.php?cat=tablet">tablet</a>
+            <a href="index.php?cat=smartwatches">smartwatches</a>
+            <a href="index.php?cat=cameras">cameras</a>
+            <a href="index.php?cat=fones">fones</a>
+            <a href="index.php?cat=televisores">televisores</a>
+            <a href="index.php?cat=videogames">videogames</a>
         </menu>
     </header>
     <main>
